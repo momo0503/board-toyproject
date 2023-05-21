@@ -8,6 +8,9 @@ public class BoardToyprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BoardToyprojectApplication.class, args);
+
+		System.out.println("hi");
 	}
+
 
 }
